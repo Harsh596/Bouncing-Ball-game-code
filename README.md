@@ -1,7 +1,7 @@
 # How to make a bouncing ball game with matter.js!
 **First , call matter.js into index.html file**
 ```javascript
-<script src="matter.js"></script>
+<script src="https://unpkg.com/matter-js@0.14.2/build/matter.min.js"></script>
 ```
 **Second , create constants and variables which will be calling the functions of matter.js in sketch .js**
 ```javascript

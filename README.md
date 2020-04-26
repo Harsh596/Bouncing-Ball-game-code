@@ -82,4 +82,4 @@ ball.display();
 ground.display();
 }
 ```
-**And after this enjoy your falling Ball game!**
+**And after this enjoy your Bouncing Ball game!**

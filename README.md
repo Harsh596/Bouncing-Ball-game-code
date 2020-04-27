@@ -8,18 +8,15 @@
 const Engine = Matter.Engine;
 const World = Matter.World;
 const Bodies = Matter.Bodies;
-```
-```javascript
+
 var engine,world;
-```
-```javascript
+
 function setup(){
 var canvas = createCanvas = (800,400);
 engine = Engine.create();
 world = engine.world;
 }
-```
-```javascript
+
 function draw(){
 Engine.update(engine);
 background(0);
